@@ -1,0 +1,14 @@
+QUESTIONS = [
+    {"kode": "R01", "pertanyaan": "Apakah ukuran pisang besar?"},
+    {"kode": "R02", "pertanyaan": "Apakah warna pisang hijau?"},
+    {"kode": "R03", "pertanyaan": "Apakah warna pisang kuning?"},
+    {"kode": "R05", "pertanyaan": "Apakah tekstur pisang keras?"},
+    {"kode": "R06", "pertanyaan": "Apakah tekstur pisang lembut?"},
+    {"kode": "R07", "pertanyaan": "Apakah aroma pisang segar?"},
+    {"kode": "R08", "pertanyaan": "Apakah aroma pisang harum?"},
+    {"kode": "R09", "pertanyaan": "Apakah aroma pisang busuk?"},
+    {"kode": "R010", "pertanyaan": "Apakah umur pisang masih muda?"},
+    {"kode": "R011", "pertanyaan": "Apakah umur pisang sedang?"},
+    {"kode": "R013", "pertanyaan": "Apakah permukaan pisang halus?"},
+    {"kode": "R014", "pertanyaan": "Apakah permukaan pisang tidak halus?"},
+]
